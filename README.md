@@ -12,9 +12,9 @@ data source:https://www.kaggle.com/datasets/datascientistanna/customers-dataset
 
 
 Note
-Early Adult age between 19 and 39
-Middle Adult are ages between 40 and 59
-Old Age are ages from 60 above  
-Low Earner is income below 70000:
-Average Earner is income between 70000 and 120045:
-High Earner is income above 120045
+1. Early Adult age between 19 and 39
+2. Middle Adult are ages between 40 and 59
+3. Old Age are ages from 60 above  
+4. Low Earner is income below 70000:
+5. Average Earner is income between 70000 and 120045:
+6. High Earner is income above 120045
